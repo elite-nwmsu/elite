@@ -21,7 +21,7 @@ import static sss.Main.switches;
 
 /**
  *
- * @author S525700
+ * @author S525893
  */
 public class TrackDatabase {
 
