@@ -24,6 +24,74 @@ import static sss.Main.switches;
  * @author S525893
  */
 public class TrackDatabase {
+    
+    
+    public static void readTrackdb() {
+        try {
+            File file = new File("trackdb.txt");
+            Scanner in = new Scanner(file);
+            while (in.hasNextLine()) {
+                String line = in.nextLine();
+                // System.out.println(line);
+                String[] tokens = line.trim().split(" ");
+                if (tokens[0].contains("SW")) {
+
+                    String[] vals = tokens[1].trim().split(",");
+                    int x = Integer.valueOf(vals[0]);
+                    int y = Integer.valueOf(vals[1]);
+                    Point p = new Point(x, y);
+                    switches.put(tokens[0], p);
+                } else {
+                    String[] vals = tokens[1].trim().split(";");
+                    ArrayList<Point> points = new ArrayList<>();
+                    for (int i = 0; i < vals.length; ++i) {
+                        String[] vals2 = vals[i].trim().split(",");
+                        int x = Integer.valueOf(vals2[0]);
+                       int y = Integer.valueOf(vals2[1]);
+                        Point p = new Point(x, y);
+                        points.add(p);
+                    }
+                    int speed = Integer.valueOf(tokens[2].trim());
+                    sections.put(tokens[0], points);
+                    speedLimit.put(tokens[0], speed);
+                }
+            }
+            in.close();
+            in = new Scanner(new File("route2.txt"));
+
+            while (in.hasNextLine()) {
+                route = in.nextLine().trim().split(" ");
+            }
+            in.close();
+        } catch (FileNotFoundException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        /*for (String name : switches.keySet()) {
+			String value = switches.get(name).toString();
+			System.out.println(name + " " + value);
+		}
+		for (String name : sections.keySet()) {
+			ArrayList<Point> values = sections.get(name);
+			System.out.print(name + " ");
+			for (int i = 0; i < values.size(); ++i)
+				System.out.print(values.get(i) + " ");
+			System.out.print(speedLimit.get(name) + "\n");
+		}*/
+ /*for (String r : route) {
+			System.out.print(r + " ");
+		}
+		System.out.println();
+		for (String s : picked_stations) {
+			System.out.println(s);
+		}*/
+        prev = null;
+        /*current = route[location];
+		// updateNext();
+		nextStop = new Point(200, 50);
+		next_section = "S2-1";*/
+    }
+
 
     public static void generateRoute() {
         try {
@@ -81,3 +149,5 @@ public class TrackDatabase {
     }
 
 }
+
+
