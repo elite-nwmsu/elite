@@ -598,10 +598,10 @@ public class DrawPanel extends JPanel {
             }
 
         }
-        
+
         g.setColor(Color.RED);
         
-
+        
         g.drawImage(image, Main.freightX, Main.freightY, this);
 
         g.drawImage(image, (int) Main.posX, (int) Main.posY, this);
