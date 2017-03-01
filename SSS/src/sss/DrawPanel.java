@@ -233,6 +233,183 @@ public class DrawPanel extends JPanel {
         g.drawImage(track3, 275, 260, 10, 20, this);
         g.drawImage(track3, 280, 255, 10, 20, this);
         g.drawImage(track3, 285, 250, 10, 20, this);
+        // ok
+        g.drawImage(track3, 350, 340, 10, 20, this);
+        g.drawImage(track3, 355, 335, 10, 20, this);
+        g.drawImage(track3, 360, 330, 10, 20, this);
+        g.drawImage(track3, 365, 325, 10, 20, this);
+        g.drawImage(track3, 370, 320, 10, 20, this);
+        g.drawImage(track3, 375, 315, 10, 20, this);
+        g.drawImage(track3, 380, 310, 10, 20, this);
+        g.drawImage(track3, 385, 305, 10, 20, this);
+        g.drawImage(track3, 390, 300, 10, 20, this);
+        g.drawImage(track3, 395, 295, 10, 20, this);
+        // ok
+        g.drawImage(track3, 553, 390, 10, 20, this);	// 19-2
+        g.drawImage(track3, 556, 385, 10, 20, this);
+        g.drawImage(track3, 559, 380, 10, 20, this);
+        g.drawImage(track3, 562, 375, 10, 20, this);
+        g.drawImage(track3, 565, 370, 10, 20, this);
+        g.drawImage(track3, 568, 365, 10, 20, this);
+        g.drawImage(track3, 571, 360, 10, 20, this);
+        g.drawImage(track3, 574, 355, 10, 20, this);
+        g.drawImage(track3, 577, 350, 10, 20, this);
+        // ok
+        g.drawImage(track3, 300, 390, 10, 20, this);
+        g.drawImage(track3, 305, 385, 10, 20, this);
+        g.drawImage(track3, 310, 380, 10, 20, this);
+        g.drawImage(track3, 315, 375, 10, 20, this);
+        g.drawImage(track3, 320, 370, 10, 20, this);
+        g.drawImage(track3, 325, 365, 10, 20, this);
+        g.drawImage(track3, 330, 360, 10, 20, this);
+        g.drawImage(track3, 335, 355, 10, 20, this);
+        g.drawImage(track3, 340, 350, 10, 20, this);
+        // ok
+        g.drawImage(track3, 400, 490, 10, 20, this);	// 22-1
+        g.drawImage(track3, 405, 485, 10, 20, this);
+        g.drawImage(track3, 410, 480, 10, 20, this);
+        g.drawImage(track3, 415, 475, 10, 20, this);
+        g.drawImage(track3, 420, 470, 10, 20, this);
+        g.drawImage(track3, 425, 465, 10, 20, this);
+        g.drawImage(track3, 430, 460, 10, 20, this);
+        g.drawImage(track3, 435, 455, 10, 20, this);
+        g.drawImage(track3, 440, 450, 10, 20, this);
+        // ok
+        g.drawImage(track3, 300, 540, 10, 20, this);	// 24-1
+        g.drawImage(track3, 305, 535, 10, 20, this);
+        g.drawImage(track3, 310, 530, 10, 20, this);
+        g.drawImage(track3, 315, 525, 10, 20, this);
+        g.drawImage(track3, 320, 520, 10, 20, this);
+        g.drawImage(track3, 325, 515, 10, 20, this);
+        g.drawImage(track3, 330, 510, 10, 20, this);
+        g.drawImage(track3, 335, 505, 10, 20, this);
+        g.drawImage(track3, 340, 500, 10, 20, this);
+        // ok
+        g.drawImage(track3, 250, 580, 10, 20, this);	// 25-3
+        g.drawImage(track3, 255, 575, 10, 20, this);
+        g.drawImage(track3, 260, 570, 10, 20, this);
+        g.drawImage(track3, 265, 565, 10, 20, this);
+        g.drawImage(track3, 270, 560, 10, 20, this);
+        g.drawImage(track3, 275, 555, 10, 20, this);
+        g.drawImage(track3, 280, 550, 10, 20, this);
+        // ok
+        g.drawImage(track3, 405, 85, 10, 20, this);
+        g.drawImage(track3, 410, 80, 10, 20, this);
+        g.drawImage(track3, 415, 75, 10, 20, this);
+        g.drawImage(track3, 420, 70, 10, 20, this);
+        g.drawImage(track3, 425, 65, 10, 20, this);
+        g.drawImage(track3, 430, 60, 10, 20, this);
+        g.drawImage(track3, 435, 55, 10, 20, this);
+        g.drawImage(track3, 440, 50, 10, 20, this);
+        // ok
+        g.drawImage(track3, 505, 85, 10, 20, this);
+        g.drawImage(track3, 510, 80, 10, 20, this);
+        g.drawImage(track3, 515, 75, 10, 20, this);
+        g.drawImage(track3, 520, 70, 10, 20, this);
+        g.drawImage(track3, 525, 65, 10, 20, this);
+        g.drawImage(track3, 530, 60, 10, 20, this);
+        g.drawImage(track3, 535, 55, 10, 20, this);
+        g.drawImage(track3, 540, 50, 10, 20, this);
+
+        // ok
+        g.drawImage(track4, 625, 175, 10, 20, this);	// 6-2
+        g.drawImage(track4, 630, 180, 10, 20, this);
+        g.drawImage(track4, 635, 185, 10, 20, this);
+        g.drawImage(track4, 640, 190, 10, 20, this);
+        g.drawImage(track4, 645, 195, 10, 20, this);
+        // ok
+        g.drawImage(track4, 405, 50, 10, 20, this);
+        g.drawImage(track4, 410, 55, 10, 20, this);
+        g.drawImage(track4, 415, 60, 10, 20, this);
+        g.drawImage(track4, 420, 65, 10, 20, this);
+        g.drawImage(track4, 425, 70, 10, 20, this);
+        g.drawImage(track4, 430, 75, 10, 20, this);
+        g.drawImage(track4, 435, 80, 10, 20, this);
+        g.drawImage(track4, 440, 85, 10, 20, this);
+        // ok
+        g.drawImage(track4, 505, 50, 10, 20, this);
+        g.drawImage(track4, 510, 55, 10, 20, this);
+        g.drawImage(track4, 515, 60, 10, 20, this);
+        g.drawImage(track4, 520, 65, 10, 20, this);
+        g.drawImage(track4, 525, 70, 10, 20, this);
+        g.drawImage(track4, 530, 75, 10, 20, this);
+        g.drawImage(track4, 535, 80, 10, 20, this);
+        g.drawImage(track4, 540, 85, 10, 20, this);
+        // ok
+        g.drawImage(track4, 550, 195, 10, 20, this);	// 8-1
+        g.drawImage(track4, 555, 200, 10, 20, this);
+        g.drawImage(track4, 560, 205, 10, 20, this);
+        g.drawImage(track4, 565, 210, 10, 20, this);
+        g.drawImage(track4, 570, 215, 10, 20, this);
+        g.drawImage(track4, 575, 220, 10, 20, this);
+        g.drawImage(track4, 580, 225, 10, 20, this);
+        g.drawImage(track4, 585, 230, 10, 20, this);
+        g.drawImage(track4, 590, 235, 10, 20, this);
+        // ok
+        g.drawImage(track4, 550, 445, 10, 20, this);	// 22-1
+        g.drawImage(track4, 555, 450, 10, 20, this);
+        g.drawImage(track4, 560, 455, 10, 20, this);
+        g.drawImage(track4, 565, 460, 10, 20, this);
+        g.drawImage(track4, 570, 465, 10, 20, this);
+        g.drawImage(track4, 575, 470, 10, 20, this);
+        g.drawImage(track4, 580, 475, 10, 20, this);
+        g.drawImage(track4, 585, 480, 10, 20, this);
+        g.drawImage(track4, 590, 485, 10, 20, this);
+        // ok
+        g.drawImage(track4, 480, 640, 10, 20, this);	// 29-2
+        g.drawImage(track4, 485, 645, 10, 20, this);
+        g.drawImage(track4, 490, 650, 10, 20, this);
+        g.drawImage(track4, 495, 655, 10, 20, this);
+        // ok
+        g.drawImage(track4, 60, 250, 10, 20, this);	// 10-2
+        g.drawImage(track4, 65, 255, 10, 20, this);
+        g.drawImage(track4, 70, 260, 10, 20, this);
+        g.drawImage(track4, 75, 265, 10, 20, this);
+        g.drawImage(track4, 80, 270, 10, 20, this);
+        g.drawImage(track4, 85, 275, 10, 20, this);
+        g.drawImage(track4, 90, 280, 10, 20, this);
+        g.drawImage(track4, 95, 285, 10, 20, this);
+        // ok
+        g.drawImage(track4, 370, 350, 10, 20, this);	// 19-2
+        g.drawImage(track4, 373, 355, 10, 20, this);
+        g.drawImage(track4, 376, 360, 10, 20, this);
+        g.drawImage(track4, 379, 365, 10, 20, this);
+        g.drawImage(track4, 382, 370, 10, 20, this);
+        g.drawImage(track4, 385, 375, 10, 20, this);
+        g.drawImage(track4, 388, 380, 10, 20, this);
+        g.drawImage(track4, 391, 385, 10, 20, this);
+        // ok
+        g.drawImage(track4, 80, 550, 10, 20, this);	// 25-3
+        g.drawImage(track4, 83, 555, 10, 20, this);
+        g.drawImage(track4, 86, 560, 10, 20, this);
+        g.drawImage(track4, 89, 565, 10, 20, this);
+        g.drawImage(track4, 92, 570, 10, 20, this);
+        g.drawImage(track4, 95, 575, 10, 20, this);
+        // ok
+
+        //code to color track
+        
+        g.setColor(Color.RED);
+        
+
+        g.drawImage(image, Main.freightX, Main.freightY, this);
+
+        g.drawImage(image, (int) Main.posX, (int) Main.posY, this);
+
+        g.drawImage(boston, 40, 70, this);
+        g.drawImage(boston, 40, 170, this);
+
+        g.drawImage(alewife, 570, 70, this);
+        g.drawImage(medford, 130, 260, this);
+        g.drawImage(melrose, 440, 370, this);
+        g.drawImage(stoneham, 130, 510, this);
+        g.drawImage(stoneham, 130, 560, this);
+        g.drawImage(reading, 510, 648, this);
+        /*
+			 * if (fright || fleft) g.fillRect(freightX, freightY, 30, 30); else
+			 * if (fup || fdown) g.fillRect(freightX, freightY, 30, 30);
+         */
+
     }
 
 }
